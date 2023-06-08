@@ -1,0 +1,21 @@
+[2023-06-08 22:36:37,003] {processor.py:163} INFO - Started process (PID=8101) to work on /opt/airflow/dags/short_2.py
+[2023-06-08 22:36:37,007] {processor.py:642} INFO - Processing file /opt/airflow/dags/short_2.py for tasks to queue
+[2023-06-08 22:36:37,009] {logging_mixin.py:109} INFO - [2023-06-08 22:36:37,009] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/short_2.py
+[2023-06-08 22:36:37,083] {processor.py:652} INFO - DAG(s) dict_keys(['short_dag_2']) retrieved from /opt/airflow/dags/short_2.py
+[2023-06-08 22:36:37,133] {logging_mixin.py:109} INFO - [2023-06-08 22:36:37,132] {dag.py:2398} INFO - Sync 1 DAGs
+[2023-06-08 22:36:37,189] {logging_mixin.py:109} INFO - [2023-06-08 22:36:37,188] {dag.py:2937} INFO - Setting next_dagrun for short_dag_2 to 2023-06-08T00:00:00+00:00
+[2023-06-08 22:36:37,209] {processor.py:171} INFO - Processing /opt/airflow/dags/short_2.py took 0.212 seconds
+[2023-06-08 22:37:07,348] {processor.py:163} INFO - Started process (PID=8224) to work on /opt/airflow/dags/short_2.py
+[2023-06-08 22:37:07,352] {processor.py:642} INFO - Processing file /opt/airflow/dags/short_2.py for tasks to queue
+[2023-06-08 22:37:07,355] {logging_mixin.py:109} INFO - [2023-06-08 22:37:07,355] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/short_2.py
+[2023-06-08 22:37:07,455] {processor.py:652} INFO - DAG(s) dict_keys(['short_dag_2']) retrieved from /opt/airflow/dags/short_2.py
+[2023-06-08 22:37:07,509] {logging_mixin.py:109} INFO - [2023-06-08 22:37:07,509] {dag.py:2398} INFO - Sync 1 DAGs
+[2023-06-08 22:37:07,569] {logging_mixin.py:109} INFO - [2023-06-08 22:37:07,569] {dag.py:2937} INFO - Setting next_dagrun for short_dag_2 to 2023-06-08T00:00:00+00:00
+[2023-06-08 22:37:07,592] {processor.py:171} INFO - Processing /opt/airflow/dags/short_2.py took 0.251 seconds
+[2023-06-08 22:37:38,223] {processor.py:163} INFO - Started process (PID=8342) to work on /opt/airflow/dags/short_2.py
+[2023-06-08 22:37:38,228] {processor.py:642} INFO - Processing file /opt/airflow/dags/short_2.py for tasks to queue
+[2023-06-08 22:37:38,232] {logging_mixin.py:109} INFO - [2023-06-08 22:37:38,231] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/short_2.py
+[2023-06-08 22:37:38,310] {processor.py:652} INFO - DAG(s) dict_keys(['short_dag_2']) retrieved from /opt/airflow/dags/short_2.py
+[2023-06-08 22:37:38,365] {logging_mixin.py:109} INFO - [2023-06-08 22:37:38,364] {dag.py:2398} INFO - Sync 1 DAGs
+[2023-06-08 22:37:38,425] {logging_mixin.py:109} INFO - [2023-06-08 22:37:38,424] {dag.py:2937} INFO - Setting next_dagrun for short_dag_2 to 2023-06-08T00:00:00+00:00
+[2023-06-08 22:37:38,447] {processor.py:171} INFO - Processing /opt/airflow/dags/short_2.py took 0.231 seconds

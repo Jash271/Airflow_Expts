@@ -1,0 +1,17 @@
+[2023-06-08 22:36:48,714] {processor.py:163} INFO - Started process (PID=8155) to work on /opt/airflow/dags/branch_sql.py
+[2023-06-08 22:36:48,718] {processor.py:642} INFO - Processing file /opt/airflow/dags/branch_sql.py for tasks to queue
+[2023-06-08 22:36:48,720] {logging_mixin.py:109} INFO - [2023-06-08 22:36:48,720] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/branch_sql.py
+[2023-06-08 22:36:51,185] {processor.py:652} INFO - DAG(s) dict_keys(['branch_sql_dag']) retrieved from /opt/airflow/dags/branch_sql.py
+[2023-06-08 22:36:51,301] {logging_mixin.py:109} INFO - [2023-06-08 22:36:51,299] {dag.py:2398} INFO - Sync 1 DAGs
+[2023-06-08 22:36:51,367] {logging_mixin.py:109} INFO - [2023-06-08 22:36:51,367] {dag.py:2937} INFO - Setting next_dagrun for branch_sql_dag to 2023-06-07 00:00:00+00:00
+[2023-06-08 22:36:51,393] {processor.py:171} INFO - Processing /opt/airflow/dags/branch_sql.py took 2.689 seconds
+[2023-06-08 22:37:21,742] {processor.py:163} INFO - Started process (PID=8278) to work on /opt/airflow/dags/branch_sql.py
+[2023-06-08 22:37:21,748] {processor.py:642} INFO - Processing file /opt/airflow/dags/branch_sql.py for tasks to queue
+[2023-06-08 22:37:21,751] {logging_mixin.py:109} INFO - [2023-06-08 22:37:21,751] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/branch_sql.py
+[2023-06-08 22:37:25,559] {processor.py:652} INFO - DAG(s) dict_keys(['branch_sql_dag']) retrieved from /opt/airflow/dags/branch_sql.py
+[2023-06-08 22:37:25,635] {logging_mixin.py:109} INFO - [2023-06-08 22:37:25,633] {dag.py:2398} INFO - Sync 1 DAGs
+[2023-06-08 22:37:25,707] {logging_mixin.py:109} INFO - [2023-06-08 22:37:25,706] {dag.py:2937} INFO - Setting next_dagrun for branch_sql_dag to 2023-06-07 00:00:00+00:00
+[2023-06-08 22:37:25,750] {processor.py:171} INFO - Processing /opt/airflow/dags/branch_sql.py took 4.034 seconds
+[2023-06-08 22:37:56,083] {processor.py:163} INFO - Started process (PID=8401) to work on /opt/airflow/dags/branch_sql.py
+[2023-06-08 22:37:56,091] {processor.py:642} INFO - Processing file /opt/airflow/dags/branch_sql.py for tasks to queue
+[2023-06-08 22:37:56,094] {logging_mixin.py:109} INFO - [2023-06-08 22:37:56,094] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/branch_sql.py
